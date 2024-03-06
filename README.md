@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>https://pareotsunamideplastico.org/?utm_source=google&utm_medium=cpc&utm_campaign=tsunami_de_plastico_conversao&gad_source=1&gclid=CjwKCAiAxaCvBhBaEiwAvsLmWIC85G6zxESx53-0puMLap_fgG90MRaruv6fPoveO9nE96r28SQLKhoCSRMQAvD_BwE</title>
+    <title>A importância do meio ambiente</title>
     <style>
         body {
             margin: 0;
