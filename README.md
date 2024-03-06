@@ -76,8 +76,7 @@
     </nav>
     <div id="video-container">
         <video controls>
-            <source src="watch.htm" type="video/mp4">
-          
+            <source src="watch.htm" type="video/mp4">    
         </video>
     </div>
     <div id="content">
