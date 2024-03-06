@@ -9,7 +9,7 @@
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-            ![E5E57BA5-93AE-4182-AB3F-611294A70318](https://github.com/Marquitos666777/Pr-tica-6-7-8/assets/132093013/86b85d53-de42-44cc-9016-5282ef8481b6)
+            ![download (1)](https://github.com/Marquitos666777/Pr-tica-6-7-8/assets/132093013/8427c0f5-11b4-4551-b980-f77105817913)
             background-size: cover;
             background-position: center; /* Centraliza a imagem de fundo */
             color: white;
