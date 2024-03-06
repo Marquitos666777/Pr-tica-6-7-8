@@ -87,8 +87,6 @@
                    </div>
         <p>As florestas fornecem água potável para mais de 33% das maiores cidades do mundo. A qualidade deste recurso, primordial para a saúde e o desenvolvimento rural e urbano, está vinculada com a gestão florestal. As florestas propiciam 40% de toda a energia renovável do mundo.</p>
         <div class="image-container">
-         
-
  ![image](https://github.com/Marquitos666777/Pr-tica-6-7-8/assets/132093013/8447ea73-7243-42f6-aeb6-be9ac83fd333)
                 </div>
                 <p>Os oceanos e mares são 70% do globo terrestre e fornecem mais da metade do oxigênio que respiramos, regulam o clima do planeta, nos dão energia, alimento, ainda promovem saúde e bem-estar.</p>
@@ -101,15 +99,10 @@
                   </div>
         <p>descrever sobre o impacto negativo que a falta de reciclagem causa ao meio ambiente.</p>
         <div class="image-container">
-            
-
  ![image](https://github.com/Marquitos666777/Pr-tica-6-7-8/assets/132093013/1da36152-4d05-4843-84fc-7a82c6a721bc)
                   </div>
                   <p>A principal consequência do desmatamento está atrelada ao desequilíbrio ambiental provocado pela perda da vegetação nativa. A remoção da vegetação provoca uma grande perda da biodiversidade assim como a perda do habitat de animais e plantas, e, ainda, impacta diretamente na elevação do número de espécies em extinção.</p>
-        <div class="image-container">
-           
-            
-
+        <div class="image-container">         
 ![image](https://github.com/Marquitos666777/Pr-tica-6-7-8/assets/132093013/7ddfd3b1-1d11-4797-b2df-3ee542eadf65)
         </div>
         <h2 id="solucoes">Soluções</h2>
